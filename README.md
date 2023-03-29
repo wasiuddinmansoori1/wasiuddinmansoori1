@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello, I am Wasiuddin Mansoori
 
-<!--
-**wasiuddinmansoori1/wasiuddinmansoori1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Here are some ideas to get you started:
+♂️ Pronouns (He/His/Him)
+📍 I live in Jabalpur, India
+I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
+I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
+Languages I know: JavaScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My socials are listed below
+Twitter at wasiuddinmansoori
+LinkedIn at wasiuddinmansoori
+Portfolio/Website at Coming Soon
+Mail me at wasiforwork@gmail.com regarding any work or if you just wanna connect
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+My work experience
+🔴 Worked as a CSS at Teleperformance
