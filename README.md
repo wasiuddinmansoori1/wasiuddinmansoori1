@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=st-wasi&label=Profile%20views&color=0e75b6&style=flat" alt="st-wasi" /> </p>
 
-- 🔭 I’m currently working on [My Portfoilo](https://wasiuddin.w3spaces.com/)
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
